@@ -42,3 +42,8 @@ REST API сервис на базе FastAPI для генерации текст
     "prompt": "Once upon a time",
     "max_tokens": 50
   }
+  # GenAI API - Project 23
+
+Это API для работы с генеративной нейросетью, написанное на FastAPI и развернутое в облаке Railway.
+
+🚀 **Рабочий сервер (Swagger UI):** [https://friendly-vitality-production-efda.up.railway.app/docs]
